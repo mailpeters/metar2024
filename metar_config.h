@@ -1,5 +1,5 @@
-#define MYSSID    "XJMJ6_GUEST"
-#define WIFIPASS  "PETERSGUEST"
+#define MYSSID    ""
+#define WIFIPASS  ""
 
 
 #define DISPLAYMODE 1
